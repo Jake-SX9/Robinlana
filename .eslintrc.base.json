@@ -5,7 +5,7 @@
     "plugin:@typescript-eslint/recommended",
     "plugin:prettier/recommended",
     "plugin:jsdoc/recommended"
-  ],
+  ], 
   "plugins": ["@typescript-eslint", "prettier"],
   "env": {
     "node": true,
