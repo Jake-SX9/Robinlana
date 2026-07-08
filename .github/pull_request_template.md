@@ -1,4 +1,4 @@
-### What changed? Why?
+### What changed? Why? 
 
 
 #### Qualified Impact
