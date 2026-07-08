@@ -8,7 +8,7 @@ module.exports = {
   coverageReporters: ["html"],
   verbose: true,
   maxWorkers: 1,
-  coverageThreshold: {
+  coverageThreshold: { 
     "./src/**": {
       branches: 77,
       functions: 85,
